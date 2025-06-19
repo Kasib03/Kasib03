@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Publication of Vulnerability Detection Using CNN+BiLSTM and Detail comparative study against other Models**
 
-- 🌱 I’m currently learning **Full-stack development,currently Learning ReactJS**
+- 🌱 I’m currently learning **Full-stack development,Learning ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kasib03](https://github.com/Kasib03)
 
