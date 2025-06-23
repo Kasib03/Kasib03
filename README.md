@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **kasibman20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1bDQg9U3byXrGL_pZezmuHa799Tl0TjAI](https://drive.google.com/drive/folders/1bDQg9U3byXrGL_pZezmuHa799Tl0TjAI)
-
 - ⚡ Fun fact **I always manage to make things work 🙃**
 
 <h3 align="left">Connect with me:</h3>
